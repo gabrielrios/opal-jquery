@@ -1,3 +1,4 @@
+# encoding: utf-8
 require 'native'
 require 'opal/jquery/constants'
 
